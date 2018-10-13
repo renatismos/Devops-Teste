@@ -2,4 +2,4 @@ Pirâmide de teste é uma ferramenta estratégica que existe para separar testes
 
 
 Nome: Renato Souza Alves
-RA.....: 1800389
+RA: 1800389
